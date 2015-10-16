@@ -28,4 +28,10 @@ lead: "Over a dozen reusable components built to provide iconography, dropdowns,
 {% include components/responsive-embed.html %}
 {% include components/wells.html %}
 
+<div>
+  <p>
+    <a href="www.pupwalkr.com"> Go to our website at www.pupwalkr.com ! </a>
+  </p>
+</div>
+
 <!-- www.pupwalkr.com -->

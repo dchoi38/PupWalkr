@@ -21,6 +21,13 @@ lead: "An overview of Bootstrap, how to download and use, basic templates and ex
   <p>Looking to migrate from an older version of Bootstrap to v3.x? Check out <a href="../migration">our migration guide</a>.</p>
 </div>
 
+<div>
+  <p>
+    PupWalkr dog walking in Atlanta, GA! www.pupwalkr.com
+    <a href="www.pupwalkr.com"> Go to our website at www.pupwalkr.com ! </a>
+  </p>
+</div>
+
 {% include getting-started/browser-device-support.html %}
 {% include getting-started/third-party-support.html %}
 {% include getting-started/accessibility.html %}
